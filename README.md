@@ -48,6 +48,14 @@ https://www.kaggle.com/datasets/paultimothymooney/latitude-and-longitude-for-eve
 
 **Measles**: Measles - number of reported cases per 1000 population
 
+# Steps taken to build the models
+* Data Exploration
+* Data Preparation
+* Modelling
+* Model Evaluation
+* Model Selection
+* Model Fine-Tuning
+
 # Results and Insights
 Some key questions answered:
 
