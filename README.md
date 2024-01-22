@@ -52,6 +52,7 @@ https://www.kaggle.com/datasets/paultimothymooney/latitude-and-longitude-for-eve
 Some key questions answered:
 
 * Does various predicting factors which has been chosen initially really affect the Life expectancy? What are the predicting variables actually affecting the life expectancy?
+
 Should a country having a lower life expectancy value(<65) increase its healthcare expenditure in order to improve its average lifespan?
 How does Infant and Adult mortality rates affect life expectancy?
 Does Life Expectancy has positive or negative correlation with eating habits, lifestyle, exercise, smoking, drinking alcohol etc.
